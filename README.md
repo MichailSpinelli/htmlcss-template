@@ -1,1 +1,1 @@
-# htmlcss-template
+# htmlcssjs-template
